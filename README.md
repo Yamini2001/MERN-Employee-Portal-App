@@ -27,7 +27,7 @@ This project is a web-based employee management portal system built using the ME
 git clone  https://github.com/Yamini2001/MERN-Employee-Portal-App
 
 
-## Install Dependencies
+2. Install Dependencies
 
 cd mern-employee-management-system
 npm install
